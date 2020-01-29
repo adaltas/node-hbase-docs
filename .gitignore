@@ -1,8 +1,6 @@
-# Project dependencies
-.cache
-node_modules
-yarn-error.log
-
-# Build directory
+/.cache
+/node_modules
+/yarn-error.log
+/yarn.lock
 /public
 .DS_Store
