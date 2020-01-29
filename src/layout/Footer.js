@@ -92,20 +92,12 @@ class Footer extends Component {
               <Link to="/learn/contribute/">How to contribute</Link>
             </li>
             <li>
-              <a
-                href="https://github.com/adaltas/node-hbase"
-                target="_blank"
-                rel="noopener"
-              >
+              <a href="https://github.com/adaltas/node-hbase">
                 GitHub
               </a>
             </li>
             <li>
-              <a
-                href="https://github.com/adaltas/node-hbase/issues"
-                target="_blank"
-                rel="noopener"
-              >
+              <a href="https://github.com/adaltas/node-hbase/issues">
                 Issue Tracker
               </a>
             </li>
@@ -115,11 +107,11 @@ class Footer extends Component {
           <h1>About</h1>
           <p>
             Node.js HBase is an open source product hosted on{' '}
-            <a href="https://www.github.com" target="_blank" rel="noopener">
+            <a href="https://www.github.com">
               GitHub
             </a>{' '}
             and developed by{' '}
-            <a href="http://www.adaltas.com" target="_blank" rel="noopener">
+            <a href="http://www.adaltas.com">
               Adaltas
             </a>
             .
