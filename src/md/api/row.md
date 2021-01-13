@@ -74,7 +74,7 @@ Attempting to retrieve a column which does not exist in HBase will return a null
 
 ```javascript
 hbase()
-talbe('my_table')
+table('my_table')
 .row('my_row')
 .get('my_column_family:my_column', (error, value) => {
   assert.strictEqual(404, error.code)
